@@ -9,6 +9,8 @@
 
 # MQTT Topics
 <p><b>For Current Status</b> /bttt/Covid19/All</p>
-<p><b>For Country Sepecific</b> /bttt/Covid19/{{CountryName}}</p>
+<p><b>For Yesterday Status</b> /bttt/Covid19/All/Yesterday</p>
+<p><b>For Country Specific</b> /bttt/Covid19/{{CountryName}}</p>
+<p><b>For Country Specific Yesterday</b> /bttt/Covid19/{{CountryName}}/Yesterday</p>
 
 # {{CountryName}} List
